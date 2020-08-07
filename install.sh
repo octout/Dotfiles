@@ -10,6 +10,7 @@ sudo apt update && sudo apt install -y --no-install-recommends \
         libreadline-dev \
         libsqlite3-dev \
         git \
+        pip \
 
 # Download pyenv
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
