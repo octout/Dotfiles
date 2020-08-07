@@ -30,3 +30,5 @@ pyenv global 3.7.4
 
 # Install pipenv
 pip install pipenv
+pipenv install pylint --dev
+pipenv install django==3.0.3
